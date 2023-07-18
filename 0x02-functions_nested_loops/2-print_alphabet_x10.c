@@ -5,10 +5,10 @@
  */
 void print_alphabet_x10(void)
 {
-	int t
+	int t;
 	int i;
 
-	for (i = 1; t <= 10; t++)
+	for (t = 1; t <= 10; t++)
 	{
 		for (i = 97; i <= 122; i++)
 		{
